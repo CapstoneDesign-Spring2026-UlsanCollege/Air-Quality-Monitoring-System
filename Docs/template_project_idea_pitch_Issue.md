@@ -115,6 +115,3 @@ The system will show pollution levels and display a visual alert when the air qu
 This project focuses on a **simple dashboard with real-time data and alerts**, which is achievable within one semester.
 
 ---
-
-
-[instructor suggestions]
