@@ -1,12 +1,12 @@
-# PROJECT.md - Capstone Design Project Overview
+# TEAM AGREEMENT - Air Quality Monitoring System
 
-This document explains **what our team is building** and **why it matters**.
+This document is our **team constitution**.
 
-Your project description will evolve during the semester, but it always answers three questions:
+It defines how our team will work together, communicate, resolve conflicts, and ensure that every member contributes to the success of the project.
 
-1. What problem are you solving?
-2. What will your system actually do?
-3. What will your final demo show?
+Clear agreements help teams avoid misunderstandings and maintain productive collaboration throughout the semester.
+
+This agreement may be updated during the semester if all team members agree and the change is recorded in the repository.
 
 ---
 
@@ -14,181 +14,200 @@ Your project description will evolve during the semester, but it always answers 
 
 **Team Name**
 
-Air-Quality-Management-System
+Air Quality Monitoring System
 
 **Repository**
 
 https://github.com/CapstoneDesign-Spring2026-UlsanCollege/Air-quality-monitoring-system
 
-**Team Members**
+**Members**
 
-| Name | Role Rotation (First Week) |
-|------|----------------------------|
-| Bidhan Pokhrel | Project Manager |
-| Suvakar Dahal | Scribe |
-| Sunil Tamang | QA Lead |
-| Nima Lama | Demo Driver |
-
----
-
-# Project Title
-
-Air Quality Monitoring System
+| Name | Role Rotation (first week) |
+|---|---|
+| Sunil Lama | Project Manager |
+| Nima Sherpa | Scribe |
+| Bidhan Pokhrel | QA Lead |
+| Suvakar Dahal | Demo Driver |
 
 ---
 
-# Problem Statement
+# Team Roles (Rotate Weekly)
 
-Many communities face unhealthy air quality due to industrial emissions, traffic congestion, and seasonal pollution.
+Roles rotate every sprint so that every team member gains experience with different responsibilities.
 
-Citizens often lack access to real-time and accurate information about air pollution levels. Without proper monitoring, people may remain unaware of potential health risks, and authorities may struggle to respond quickly.
+### PM (Project Manager)
 
-Our system provides real-time monitoring, alerts, and environmental insights to improve public health and support environmental planning.
+Responsible for:
 
----
-
-# Target Users
-
-The main users of this system include:
-
-- Government agencies monitoring pollution levels
-- City planners managing urban environments
-- Industries tracking emissions for compliance
-- Researchers studying environmental trends
-- Public and health organizations monitoring air safety
+- coordinating team activities
+- managing weekly sprint tasks
+- ensuring progress is visible on GitHub
+- helping prepare sprint submissions
 
 ---
 
-# Project Goal
+### Scribe
 
-The goal of this project is to develop an **Air Quality Monitoring System** that allows users to monitor pollution levels in real time.
+Responsible for:
 
-The system will display air quality data, provide alerts when pollution reaches dangerous levels, and allow users to review historical pollution trends. It will also help researchers and authorities generate reports and identify pollution patterns.
-
----
-
-# Core Features (First Version)
-
-- Real-time monitoring of pollutants (PM2.5, PM10, CO, NO₂, O₃)
-- Dashboard showing current air quality levels
-- Alerts and notifications when pollution exceeds safe limits
-- Historical air quality data visualization
-- Basic report generation
+- recording team decisions
+- updating project documentation
+- noting blockers and risks
+- maintaining project records
 
 ---
 
-# Demo Scenario (Very Important)
+### QA Lead
 
-Step 1: User opens the air quality dashboard.
+Responsible for:
 
-Step 2: System displays current air pollution levels for the selected location.
-
-Step 3: Dashboard highlights areas where pollution exceeds safe limits and triggers alerts.
-
-Step 4: User views historical pollution trends from the past week.
-
-Step 5: User generates a simple pollution report.
+- testing features developed by the team
+- ensuring the system works correctly
+- checking the quality of the code and functionality
+- verifying demos before submission
 
 ---
 
-# Minimum Viable Product (MVP)
+### Demo Driver
 
-The MVP will include:
+Responsible for:
 
-- Dashboard displaying real-time air quality readings
-- Visual alerts when pollution levels are unsafe
-- Basic historical pollution data
-- Simple report generation for one location
-
-This MVP demonstrates the core concept of monitoring and alerting users about air pollution levels.
+- preparing the demo presentation
+- writing the demo script
+- running the system during the demonstration
 
 ---
 
-# Stretch Goals (Optional)
+# Communication
 
-- Mobile-friendly dashboard
-- Predictive analytics for pollution trends
-- Integration with weather data
-- Automated recommendations to reduce emissions
+Our team will use the following communication tools:
 
----
-
-# Technology Stack
-
-| Area | Tool |
-|-----|------|
-| Frontend | React |
-| Backend | Node.js / Express |
-| Database | PostgreSQL |
-| Hosting | Vercel / Heroku |
+| Tool | Purpose |
+|---|---|
+| KakaoTalk | Daily team chat, quick updates, and meeting coordination |
+| Messenger | Sharing files, links, and project discussions |
 
 ---
 
-# Project Scope Rules
+### Communication Expectations
 
-To keep the project realistic:
-
-- Start small
-- Add features gradually
-- Focus on **working software**
-
-Avoid projects that are:
-
-- Too large
-- Unclear
-- Impossible to demo
-
-A good project is:
-Demoable
-Feasible
-Well-scoped
+Our team agrees to:
+- share progress updates regularly
+- ask for help when facing problems instead of delaying work
 
 ---
 
-# Weekly Development Process
+# Meeting Expectations
 
-The team will work in **weekly sprints**.
+Team meetings will normally happen:
 
-Typical cycle:
-Idea
-↓
-Issue
-↓
-Branch
-↓
-Pull Request
-↓
-Merge
-↓
-Demo
+**After class or online when necessary.**
 
-Each week ends with a **Sprint Packet submission** documenting progress.
+Meetings will focus on:
+
+- reviewing current tasks
+- assigning new work
+- checking project progress
+- preparing sprint submissions
 
 ---
 
-# Project Evolution
+# GitHub Workflow Rules
 
-This document will evolve throughout the semester.
+Our team will follow this workflow:
+Issue → Branch → Pull Request → Merge → Evidence
 
-It will be updated when:
+Rules:
 
-- Project scope changes
-- New features are added
-- Demo scenario evolves
-- Technology decisions change
-
-All updates will be tracked using **Git commits**.
+- All work should start with a **GitHub Issue**
+- Development will be done in **separate branches**
+- Changes will be merged through **Pull Requests**
+- Team members should review important work before merging
 
 ---
 
-# What a Good Project Looks Like
+# Evidence Rule
 
-Strong projects usually:
+This class uses an **evidence-based workflow**.
 
-- Solve a clear problem
-- Have a simple demo
-- Grow gradually
-- Focus on reliability
-- Maintain clear documentation
+Rule:
 
-The goal is **not to build something huge**, but to build something **useful, reliable, and demonstrable**.
+> If it isn't linked, it didn't happen.
+
+Each team member must provide **2–3 pieces of evidence every week**.
+
+Examples include:
+
+- Pull request
+- Code commit
+- Issue created or closed
+- Documentation update
+- Screenshot of a working feature
+- Review comments
+
+Evidence should be posted as comments on the **Weekly Sprint Packet issue**.
+
+---
+
+# Work Expectations
+
+Each team member agrees to:
+
+- contribute work every week
+- communicate problems early
+- respect team members’ time and effort
+- support each other during the project
+- maintain responsibility for assigned tasks
+
+---
+
+# Missed Work
+
+If a team member misses assigned work:
+
+1. They must inform the team.
+2. They must complete the work later if possible.
+3. Repeated missed work may require instructor involvement.
+
+---
+
+# Team Decision Rules
+
+Most decisions will be made by:
+Majority vote
+
+Major project changes will require:
+
+Full team agreement
+
+---
+
+# Team Collaboration
+
+Our team agrees to support each other during the project.
+
+The goal is not only to complete the project, but also to work effectively together and continue learning as a team.
+
+---
+
+# Updating This Agreement
+
+This document may be updated if:
+
+- all team members agree
+- the change is recorded in GitHub
+- the updated document is committed to the repository
+
+---
+
+
+
+# Quick Reminder
+
+Strong teams usually:
+
+- communicate early
+- track work clearly
+- post evidence regularly
+- support each other
+- focus on completing working software
