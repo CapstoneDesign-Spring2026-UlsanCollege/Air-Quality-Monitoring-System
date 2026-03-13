@@ -1,4 +1,4 @@
-# TEAM AGREEMENT - Capstone Design
+# TEAM AGREEMENT - Air Quality Monitoring System
 
 This document is our **team constitution**.
 
@@ -14,7 +14,7 @@ This agreement may be updated during the semester if all team members agree and 
 
 **Team Name**
 
-Air-Quality-Monitoring-System
+Air Quality Monitoring System
 
 **Repository**
 
@@ -92,9 +92,6 @@ Our team will use the following communication tools:
 ### Communication Expectations
 
 Our team agrees to:
-
-- respond to team messages within **24 hours**
-- notify the team if unable to attend meetings
 - share progress updates regularly
 - ask for help when facing problems instead of delaying work
 
@@ -174,28 +171,6 @@ If a team member misses assigned work:
 
 ---
 
-# Conflict Resolution
-
-If a conflict occurs, the team will follow these steps:
-
-### Step 1 – Discuss the issue
-
-Team members will discuss the problem respectfully.
-
-### Step 2 – Adjust responsibilities
-
-Tasks may be reassigned if necessary.
-
-### Step 3 – Document the issue
-
-The problem will be recorded in GitHub issues or comments.
-
-### Step 4 – Instructor assistance
-
-If the problem continues, the instructor may be contacted.
-
----
-
 # Team Decision Rules
 
 Most decisions will be made by:
@@ -225,18 +200,7 @@ This document may be updated if:
 
 ---
 
-# Signatures
 
-By signing, we agree to follow the expectations described in this agreement.
-
-| Name | Signature | Date |
-|---|---|---|
-| Sunil Lama |  |  |
-| Nima Sherpa |  |  |
-| Bidhan Pokhrel |  |  |
-| Suvakar Dahal |  |  |
-
----
 
 # Quick Reminder
 
