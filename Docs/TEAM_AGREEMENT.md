@@ -91,8 +91,8 @@ Our primary communication channels are:
 
 Our team agrees to:
 
-- Respond to team messages within **24 hours**
-- Inform the team if unable to attend meetings
+- Respond to team messages as soon as possible
+- Inform the team if unable to solve the problem
 - Ask for help early when facing blockers
 - Maintain respectful communication
 
@@ -100,7 +100,7 @@ Our team agrees to:
 
 # Meeting Expectations
 
-Typical team meetings will happen:
+we will meet in eachothers room to discuss about the task whenever we will be free.
 
 **After class or online when necessary.**
 
