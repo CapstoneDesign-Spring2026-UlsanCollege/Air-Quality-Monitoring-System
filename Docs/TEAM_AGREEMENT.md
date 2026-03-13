@@ -18,7 +18,7 @@ Air Quality Monitoring System
 
 **Repository**
 
-https://github.com/CapstoneDesign-Spring2026-UlsanCollege/Air-quality-monitoring-system
+https://github.com/CapstoneDesign-Spring2026-UlsanCollege/Air-Quality-Monitoring-System
 
 **Members**
 
